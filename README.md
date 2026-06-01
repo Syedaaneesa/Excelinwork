@@ -12,11 +12,7 @@ Explore The Live Website : https://excelinwork.com/
 
 Below are visual that highlight the website and its main features:
 
-![Home Page](your-screenshot-link)
-![Services Section](your-screenshot-link)
-![Solutions Section](your-screenshot-link)
-![Case Studies Section](your-screenshot-link)
-![Contact Section](your-screenshot-link)
+![Home Page](https://github.com/Syedaaneesa/Excelinwork/blob/main/Home%20(2).png)
 
 ---
 
