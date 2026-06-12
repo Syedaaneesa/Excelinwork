@@ -12,7 +12,7 @@ The design focuses on professionalism, user engagement, and clear service presen
 
 Below are visual that highlight the website and its main features:
 
-![Home Page](https://github.com/Syedaaneesa/Excelinwork/blob/main/Home%20(2).png)
+![Home Page](https://github.com/Syedaaneesa/Excelinwork/blob/main/Business-Efficiency-Automation-Consulting-by-Ankush-Agrawal-We-build-custom-systems-that-eliminate-manual-work-and-drive-measurable-results--06-12-2026_05_23_PM.png)
 
 ---
 
